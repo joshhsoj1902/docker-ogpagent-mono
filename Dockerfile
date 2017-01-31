@@ -1,4 +1,4 @@
-FROM joshhsoj1902/docker-ogpweb
+FROM joshhsoj1902/docker-ogpagent
 
 MAINTAINER joshhsoj1902
 
